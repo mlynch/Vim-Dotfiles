@@ -3,10 +3,10 @@ This is a collection of my favorite vimrc/gvimrc settings along with my favorite
 I made this after getting sick of hunting down the correct javascript indent/syntax plugins because the built in ones just don't work.  
 
 Some features/personalities of these settings:
-* Remove all toolbars/scrollbars/menus from gvim
-* Use Consolas as the font (works on Linux with the PowerPointViewer cabextract'ed or Windows).  I usually change this to Monaco on OS X.
-* Correct Javascript indentation for object literal syntax and other normal use.
-* Wombat, my favorite color scheme for vim, modified to remove italic text in strings
-* Two spaces, no tabs
-* Ctrl-t to open new tabs.  Alt-left and Alt-right (arrow keys) to switch between tabs, though I've stopped using this in favor of gt and gT
-* Some other tweaks.
+ *  Remove all toolbars/scrollbars/menus from gvim
+ *  Use Consolas as the font (works on Linux with the PowerPointViewer cabextract'ed or Windows).  I usually change this to Monaco on OS X.
+ *  Correct Javascript indentation for object literal syntax and other normal use.
+ *  Wombat, my favorite color scheme for vim, modified to remove italic text in strings
+ *  Two spaces, no tabs
+ *  Ctrl-t to open new tabs.  Alt-left and Alt-right (arrow keys) to switch between tabs, though I've stopped using this in favor of gt and gT
+ *  Some other tweaks and plugins.
