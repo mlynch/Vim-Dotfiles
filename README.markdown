@@ -3,6 +3,7 @@ This is a collection of my favorite vimrc/gvimrc settings along with my favorite
 I made this after getting sick of hunting down the correct javascript indent/syntax plugins because the built in ones just don't work.  
 
 Some features/personalities of these settings:
+
  * Remove all toolbars/scrollbars/menus from gvim
 
  * Use Consolas as the font (works on Linux with the PowerPointViewer cabextract'ed or Windows).  I usually change this to Monaco on OS X.
